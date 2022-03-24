@@ -1,3 +1,7 @@
 README
 san.info
 
+.gitignore
+*.log
+*.info
+test/
